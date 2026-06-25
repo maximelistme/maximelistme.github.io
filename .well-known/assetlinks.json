@@ -4,7 +4,8 @@
     "namespace": "android_app",
     "package_name": "io.github.maximelistme.twa",
     "sha256_cert_fingerprints": [
-      "41:D9:98:BB:04:37:B4:0B:95:B5:8C:48:64:FA:FC:28:71:67:C8:65:B9:0D:0B:A4:44:5F:81:B5:1D:22:0B:D5"
+      "41:D9:98:BB:04:37:B4:0B:95:B5:8C:48:64:FA:FC:28:71:67:C8:65:B9:0D:0B:A4:44:5F:81:B5:1D:22:0B:D5",
+      "01:E1:66:B8:B4:16:5E:41:8F:61:D7:E9:ED:52:46:98:45:81:62:3D:BD:66:18:5C:51:A1:D1:7B:72:E2:E1:87"
     ]
   }
 }]
